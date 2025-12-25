@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Animator Pro",
+  "description": "Professional video generation and background animation using Gemini Veo 3.1. Transform static images into dynamic cinematic sequences.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
